@@ -18,7 +18,7 @@ Requirements
 
 How to Run
 -
-1. Clone the repository: git clone https:https://github.com/tanya-debug/chat-with-csv
+1. Clone the repository: git clone https://github.com/tanya-debug/chat-with-csv
 2. cd chat-with-csv
 3. Make sure Ollama is running and the phi3:mini model is available:
 4. ollama pull phi3:mini
