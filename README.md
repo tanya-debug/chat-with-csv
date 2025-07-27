@@ -19,8 +19,8 @@ Requirements
 How to Run
 -
 1. Clone the repository:
-  git clone https://github.com/<your-username>/<repo-name>.git
-  cd <repo-name>
+  git clone https:https://github.com/tanya-debug/chat-with-csv
+    cd chat-with-csv
 2. Make sure Ollama is running and the phi3:mini model is available:
   ollama pull phi3:mini
 3. Start the Streamlit app:
