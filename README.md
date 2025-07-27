@@ -10,19 +10,19 @@ Features
 4. Uses Ollama (phi3:mini) locally—no external API required
 
 Requirements
-=
-Python 3.9+
-Ollama installed and running locally
-Required Python packages:
-pip install streamlit pandas matplotlib ollama
+-
+1. Python 3.9+
+2. Ollama installed and running locally
+3. Required Python packages:
+4. pip install streamlit pandas matplotlib ollama
 
 How to Run
 -
-Clone the repository:
-git clone https://github.com/<your-username>/<repo-name>.git
+1. Clone the repository:
+  git clone https://github.com/<your-username>/<repo-name>.git
   cd <repo-name>
-Make sure Ollama is running and the phi3:mini model is available:
+2. Make sure Ollama is running and the phi3:mini model is available:
   ollama pull phi3:mini
-Start the Streamlit app:
+3. Start the Streamlit app:
   streamlit run app.py
-Open the URL shown in your terminal (default: http://localhost:8501).
+4. Open the URL shown in your terminal (default: http://localhost:8501).
